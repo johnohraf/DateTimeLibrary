@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genba_DateTimeLibrary", "Genba_DateTimeLibrary\Genba_DateTimeLibrary.csproj", "{8614CC1A-02CE-4F65-BF07-ADE896691685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "DateTimeLibraryTests\Tests.csproj", "{FD34C768-4C1A-46E1-943A-84E20F3B6835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8614CC1A-02CE-4F65-BF07-ADE896691685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8614CC1A-02CE-4F65-BF07-ADE896691685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8614CC1A-02CE-4F65-BF07-ADE896691685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8614CC1A-02CE-4F65-BF07-ADE896691685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD34C768-4C1A-46E1-943A-84E20F3B6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD34C768-4C1A-46E1-943A-84E20F3B6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD34C768-4C1A-46E1-943A-84E20F3B6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD34C768-4C1A-46E1-943A-84E20F3B6835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA759D9C-BFBC-4FE5-8D14-612774915A13}
+	EndGlobalSection
+EndGlobal
